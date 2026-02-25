@@ -1,0 +1,13 @@
+# IntelliJ
+.idea/
+*.iml
+
+# Build outputs
+out/
+target/
+bin/
+*.class
+
+# Archives
+*.rar
+*.zip
